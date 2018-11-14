@@ -1,0 +1,150 @@
+/* BLOG PANEL */
+
+/*
+#blog-bg {
+	background: url(../images/bg2 (2).jpg) no-repeat center top;
+	margin-top: -15px;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 150px;
+	width: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#blog-bg .badge {
+	position: absolute;
+	top: 20px;
+	left: 35px;
+}
+
+*/
+
+.badge-popular {
+	background: #3498db;
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+	font-size: 13px;
+	color: #fff;
+	text-align: center;
+	border-radius: 100%;
+}
+.blog-title {
+	background: rgba(0,0,0,0.5);
+	bottom: 100px;
+	padding: 6px;
+	color: white;
+	font-weight: 700;
+	position: absolute;
+	display: block;
+	width: 120px;
+}
+.blog-text {
+	margin-left: 40px;
+	margin-right: 8px;
+	margin-top: 15px;
+	font-size: 15px;
+    font-color: white;
+    color: white;
+    
+}
+ h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color:#ADFF2F;
+}
+
+strong{
+    color:#FFA07A;
+    
+}
+
+.blog-img{
+   margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 30px;
+	
+
+}
+
+/* login content */
+
+.form-group {
+  margin-bottom: 35px;
+}
+
+
+
+.form-control-static {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-bottom: 0;
+}
+.form-control-static.input-lg,
+.form-control-static.input-sm {
+  padding-right: 0;
+  padding-left: 0;
+}
+.input-sm,
+.form-horizontal .form-group-sm .form-control {
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+
+.wrapper {
+    display: inline-block;
+    margin-top: 60px;
+    padding-left: 25px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 0px;
+    width: 100%;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+.form-panel {
+	background: #ffffff;
+	margin: 10px;
+	padding: 10px;
+	box-shadow: 0px 3px 2px #aab2bd;
+	text-align: left;
+}
+
+.form-horizontal .style-form .form-group {
+	border-bottom: 1px solid #eff2f7;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+}
+/* manual part */
+
+.bg-transparent{
+
+	
+	position: absolute;
+	background: rgba(0,0,0,.5);
+	/*
+  
+	padding: 80px 40px;
+	box-sizing: border-box;
+
+	*/
+	
+}
+
+
+
+
+
